@@ -1,0 +1,5 @@
+readme
+.vs
+bin
+obj
+/VPS_Server/VPS_Server.vcxproj.user
